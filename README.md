@@ -1,2 +1,6 @@
-[HTTPS](https://chataribot.cf/) ~ Chat Bot Unusable
-[HTTP](http://chataribot.cf/) ~ Chat Bot Working
+# [Website](https://chataribot.cf/)
+
+###  Under work Part
+- Widget unusable
+- Api Access
+- Other minor stuff
